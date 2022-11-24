@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcomponents_vue"]=self["webpackChunkcomponents_vue"]||[]).push([[443],{1279:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var u=t(3396);const c={class:"about"};function r(n,e){return(0,u.wg)(),(0,u.iD)("div",c)}var s=t(89);const o={},a=(0,s.Z)(o,[["render",r]]);var f=a}}]);
+//# sourceMappingURL=about.bf7e0534.js.map
